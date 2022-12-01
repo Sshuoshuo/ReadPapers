@@ -20,3 +20,12 @@
 
 
 
+## Information Retrieval
+
+#### Transformer Memory as a Differentiable Search Index, NlPS2022. [paper](https://arxiv.org/abs/2202.06991)
+
+这篇文章挺有意思，不是学习doc本身的表示来与query进行匹配，而是学习doc的id来进行匹配。
+
+关联doc与docid的方式为Seq2seq模型，通过自回归生成来进行检索排序。
+
+改进点：将检索和排序放在一个模型中，改变了双塔模型的范式。
