@@ -7,7 +7,7 @@ Contents
 
 - [Text Matching](#text-matching)
 
-  - [LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, AAAI 2021.](#LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17592))
+  - [LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, AAAI 2021.](#LET:-Linguistic-Knowledge-Enhanced-Graph-Transformer-for-Chinese-Short-Text-Matching,-AAAI-2021.-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17592))
 
 - [Graph Neural Network](#Graph-Neural-Network)
 
