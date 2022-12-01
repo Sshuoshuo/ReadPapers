@@ -7,17 +7,17 @@ Contents
 
 - [Text Matching](#text-matching)
 
-  - [LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, AAAI 2021.](#LET:-Linguistic-Knowledge-Enhanced-Graph-Transformer-for-Chinese-Short-Text-Matching,-AAAI-2021.-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17592))
+  - LET: Linguistic Knowledge Enhanced Graph Transformer for Chinese Short Text Matching, AAAI 2021.
 
 - [Graph Neural Network](#Graph-Neural-Network)
 
-  - [The Graph Neural Network Model, IEEE Transactions on Neural Networks, 2009](#The Graph Neural Network Model, IEEE Transactions on Neural Networks, 2009)
+  - The Graph Neural Network Model, IEEE Transactions on Neural Networks, 2009
 
 - [Information Retrieval](#Information-Retrieval)
 
-  - [Transformer Memory as a Differentiable Search Index, NlPS2022. ](#Transformer Memory as a Differentiable Search Index, NlPS2022. [paper](https://arxiv.org/abs/2202.06991))
+  - Transformer Memory as a Differentiable Search Index, NlPS2022.
 
-  - [Autoregressive Search Engines: Generating Substrings as Document Identifiers, NlPS2022.](#Autoregressive Search Engines: Generating Substrings as Document Identifiers, NlPS2022. [paper](https://arxiv.org/abs/2204.10628))
+  - Autoregressive Search Engines: Generating Substrings as Document Identifiers, NlPS2022.
 
     <!--te-->
 
