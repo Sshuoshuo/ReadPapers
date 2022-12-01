@@ -1,6 +1,6 @@
 # Paper sharing
 
-- [Text Matching](https://github.com/Sshuoshuo/ReadPapers#a)
+- [Text Matching](https://github.com/Sshuoshuo/ReadPapers#Text Matching)
 - [b](https://github.com/xx/xxx/xx#b)
 
 ## Text Matching
